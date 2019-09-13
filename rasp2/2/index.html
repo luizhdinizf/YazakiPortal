@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="pragma" content="no-cache">
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+        overflow: hidden;        
+        margin:0;
+        
+    }
+
+.skimage {
+    
+   
+    height: 100vh;
+    width: 100vw;
+    padding: 0px;    
+    border: 0px solid green;
+}
+.floatingBtn{position:absolute; top:0px; left:0px; color:#fff; z-index:9999;  font-size:12px; width: 12px; width: 12px;}
+
+
+</style>
+  </head>
+<body onload="sliding()">
+<img src="uploaded_files/0.jpg" class="skimage" id="s0" data-timeonscreen="1500">
+
+
+
+<script>
+     function sliding(){
+      var counter = 0;
+      var ilist = document.images;
+      var slide = function() {
+           var imagesPath= "uploaded_files/";
+           if (counter>ilist.length - 1){
+            counter = 0;
+            for (var resetCounter =0; resetCounter < ilist.length;resetCounter++){
+              var image = ilist[resetCounter]
+              console.log(resetCounter);  
+              image.src = imagesPath + counter+".jpg?t=" + new Date().getTime();
+            }
+            location.reload();
+            //
+           }
+          window.location = '#s'+ counter;       
+          var image = ilist[counter]
+          var timeOnScreen = image.getAttribute('data-timeonscreen');              
+          setTimeout(slide,timeOnScreen);
+          
+           
+          counter+=1;
+      }
+      setTimeout(slide, 500);
+    }
+    </script>
+
+
+</body>
+</html>

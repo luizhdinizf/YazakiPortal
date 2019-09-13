@@ -1,0 +1,38 @@
+Main Teste;titulo;
+moto;tipo;
+Itens Comuns e Gerais;subtitulo;var0
+Portas ou janelas de áreas produtivas são mantidas fechadas, evitando assim entrada de poeira e animais. Utilize cortinas caso às portas sejam mantidas abertas.;check_moto;var1
+Fiação, tubulações e tomadas, mesmo que temporárias, estão em boas condições, fixadas e protegidas, não se tornando um obstáculo (tomadas devem estar fixadas na parede ou pilar).;check_moto;var2
+Utilização dos sapatos do uniforme dentro da área produtiva ou remoção de sujeira dos calçados nos tapetes das entradas.;check_moto;var3
+Nome das linhas, processos e máquinas são indicadas claramente (informações devem constar também no layout da planta);check_moto;var4
+Os documentos necessários (combinação de trabalho padrão, instrução de operação, etc.) estão disponíveis e de fácil visualização para o operador, caso necessitem ser consultados.;check_moto;var5
+ Área de operação e corredores estão seguros para a circulação.;check_moto;var6
+Luz suficiente é fornecida na área de operação. (área de operação: mais de 300 lux, armazém: mais de 75 lux) *Certifique-se de cumprir o regulamento para cada país.;check_moto;var7
+Peças e produtos são protegidos da luz solar direta. (ex. Use vidro opaco ou persianas);check_moto;var8
+Definição de anormalidade e pessoa para contato são indicados claramente.;check_moto;var9
+Posição de “estacionamento” e o nome dos objetos móveis são indicados (carrinhos, prateleiras, etc.).;check_moto;var10
+Produtos de pouco uso (se não foram utilizados no último mês ou mais) devem estar protegidos da poeira.;check_moto;var11
+Itens desnecessários para operação não são deixados na área de trabalho.;check_moto;var12
+Quaisquer itens armazenados ao redor da fábrica devem ter indicação de local de armazenamento, data limite do armazenamento e pessoa responsável. Painéis de montagem ou placas de inspeção devem conter proteção contra poeira, assim como outros equipamentos não utilizados por longos períodos.;check_moto;var13
+"Nenhuma caixa de peças ou produto acabado são colocados diretamente no chão. 
+(São necessários pelo menos 3 cm de espaço entre as caixas e o piso)";check_moto;var14
+Para evitar danos à equipamentos de precisão, computadores e monitores, os mesmos devem ser fixados evitando quedas.;check_moto;var15
+Lixo é separado de acordo com as regras da planta e não está com lixo acima de sua capacidade.;check_moto;var16
+Operadores e Funcionários;subtitulo;var17
+Portas ou janelas de áreas produtivas são mantidas fechadas, evitando assim entrada de poeira e animais. Utilize cortinas caso às portas sejam mantidas abertas.;check_moto;var18
+Fiação, tubulações e tomadas, mesmo que temporárias, estão em boas condições, fixadas e protegidas, não se tornando um obstáculo (tomadas devem estar fixadas na parede ou pilar).;check_moto;var19
+Utilização dos sapatos do uniforme dentro da área produtiva ou remoção de sujeira dos calçados nos tapetes das entradas.;check_moto;var20
+Nome das linhas, processos e máquinas são indicadas claramente (informações devem constar também no layout da planta);check_moto;var21
+Os documentos necessários (combinação de trabalho padrão, instrução de operação, etc.) estão disponíveis e de fácil visualização para o operador, caso necessitem ser consultados.;check_moto;var22
+ Área de operação e corredores estão seguros para a circulação.;check_moto;var23
+Luz suficiente é fornecida na área de operação. (área de operação: mais de 300 lux, armazém: mais de 75 lux) *Certifique-se de cumprir o regulamento para cada país.;check_moto;var24
+Peças e produtos são protegidos da luz solar direta. (ex. Use vidro opaco ou persianas);check_moto;var25
+Definição de anormalidade e pessoa para contato são indicados claramente.;check_moto;var26
+Posição de “estacionamento” e o nome dos objetos móveis são indicados (carrinhos, prateleiras, etc.).;check_moto;var27
+Produtos de pouco uso (se não foram utilizados no último mês ou mais) devem estar protegidos da poeira.;check_moto;var28
+Itens desnecessários para operação não são deixados na área de trabalho.;check_moto;var29
+Quaisquer itens armazenados ao redor da fábrica devem ter indicação de local de armazenamento, data limite do armazenamento e pessoa responsável. Painéis de montagem ou placas de inspeção devem conter proteção contra poeira, assim como outros equipamentos não utilizados por longos períodos.;check_moto;var30
+"Nenhuma caixa de peças ou produto acabado são colocados diretamente no chão. 
+(São necessários pelo menos 3 cm de espaço entre as caixas e o piso)";check_moto;var31
+Para evitar danos à equipamentos de precisão, computadores e monitores, os mesmos devem ser fixados evitando quedas.;check_moto;var32
+Lixo é separado de acordo com as regras da planta e não está com lixo acima de sua capacidade.;check_moto;var33

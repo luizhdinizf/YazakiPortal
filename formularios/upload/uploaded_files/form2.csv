@@ -1,0 +1,163 @@
+Engine Nissan;titulo;
+moto;tipo;
+Itens Comuns e Gerais;subtitulo;
+Portas ou janelas de áreas produtivas são mantidas fechadas, evitando assim entrada de poeira e animais. Utilize cortinas caso às portas sejam mantidas abertas.;check_moto;var1
+Fiação, tubulações e tomadas, mesmo que temporárias, estão em boas condições, fixadas e protegidas, não se tornando um obstáculo (tomadas devem estar fixadas na parede ou pilar).;check_moto;var2
+Utilização dos sapatos do uniforme dentro da área produtiva ou remoção de sujeira dos calçados nos tapetes das entradas.;check_moto;var3
+Nome das linhas, processos e máquinas são indicadas claramente (informações devem constar também no layout da planta);check_moto;var4
+Os documentos necessários (combinação de trabalho padrão, instrução de operação, etc.) estão disponíveis e de fácil visualização para o operador, caso necessitem ser consultados.;check_moto;var5
+ Área de operação e corredores estão seguros para a circulação.;check_moto;var6
+Luz suficiente é fornecida na área de operação. (área de operação: mais de 300 lux, armazém: mais de 75 lux) *Certifique-se de cumprir o regulamento para cada país.;check_moto;var7
+Peças e produtos são protegidos da luz solar direta. (ex. Use vidro opaco ou persianas);check_moto;var8
+Definição de anormalidade e pessoa para contato são indicados claramente.;check_moto;var9
+Posição de “estacionamento” e o nome dos objetos móveis são indicados (carrinhos, prateleiras, etc.).;check_moto;var10
+Produtos de pouco uso (se não foram utilizados no último mês ou mais) devem estar protegidos da poeira.;check_moto;var11
+Itens desnecessários para operação não são deixados na área de trabalho.;check_moto;var12
+Quaisquer itens armazenados ao redor da fábrica devem ter indicação de local de armazenamento, data limite do armazenamento e pessoa responsável. Painéis de montagem ou placas de inspeção devem conter proteção contra poeira, assim como outros equipamentos não utilizados por longos períodos.;check_moto;var13
+"Nenhuma caixa de peças ou produto acabado são colocados diretamente no chão. 
+(São necessários pelo menos 3 cm de espaço entre as caixas e o piso)";check_moto;var14
+Para evitar danos à equipamentos de precisão, computadores e monitores, os mesmos devem ser fixados evitando quedas.;check_moto;var15
+Lixo é separado de acordo com as regras da planta e não está com lixo acima de sua capacidade.;check_moto;var16
+Operadores e Inspetores;subtitulo;
+"Os uniformes são especificados (boné, jaqueta, calça e sapatos) e os funcionários os utilizam em boas condições. 
+(Qualquer sujeira que possa aderir em produtos é considerada NG)";check_moto;var17
+Os colaboradores utilizam a Licença Operacional necessária para sua operação, conforme regras estabelecidas;check_moto;var18
+Crachá e OLS estão bem fixadas para que não caiam.;check_moto;var19
+Colaboradores não utilizam adornos nas mãos ou utilizam luvas ao manusear terminais.;check_moto;var20
+"Colaboradores não devem ter unhas compridas ou utilizam luvas. 
+(As unhas não devem ser vistas ao se olhar a palma da mão) 
+(Unhas artificiais também são consideradas NG) ";check_moto;var21
+"Luvas especificadas são usadas e não estão sujas ou rasgadas. 
+(Não utilize luvas largas ou de algodão) 
+(Luvas de algodão são aceitáveis quando os operadores não tocam diretamente o produto)";check_moto;var22
+Colaboradores não enrolam fita sobre as luvas ao lidar com terminais. Utilize luvas revestidas ou as especificadas sobre os dedos com fita.;check_moto;var23
+Padrão para os aspectos dos colaboradores e espelho estão disponíveis, visando conscientização.;check_moto;var24
+Corredor de Segurança;subtitulo;
+"Nenhum item é colocado total ou parcialmente no corredor de segurança. (Colocado sobre a linha é considerado como estando no corredor de segurança). 
+É desejável não haver nada, incluindo outras sinalizações.";check_moto;var25
+Não há saliências ou degraus que possam interferir no transporte pelo corredor. Utilizar rampas é aceitável.;check_moto;var26
+O corredor de segurança é separado da área produtiva por uma linha, e a mesma não está se soltando. (Utilize uma cor diferente da linha usada para demarcação de objetos)    ;check_moto;var27
+Área de abertura de portas é indicada por linha tracejada.;check_moto;var28
+Armazenamento de Utensílios de Limpeza;subtitulo;
+A quantidade e o nome dos suprimentos de limpeza são indicados e estão todos disponíveis.;check_moto;var29
+Há uma indicação clara do nome da pessoa responsável e o procedimento para manter os materiais de limpeza.;check_moto;var30
+A tabela de alocação de limpeza é publicada claramente (5W1H).;check_moto;var31
+A posição de armazenamento para cada suprimento é especificada. Todos estão nos lugares estipulados e nas quantidades informadas.;check_moto;var32
+Cada material de limpeza tem o nome do departamento pelo qual é utilizado.;check_moto;var33
+As vassouras são armazenadas com cuidado para não danificar as cerdas. Ex: A vassoura não toca o chão;check_moto;var34
+"Cerdas da vassoura estão bem conservadas 
+(Cerdas não estão cobertas por poeira)";check_moto;var35
+Sub montagem e Inspeção;subtitulo;
+Etiqueta de indicação está afixada em cada tubo a) Lado de alimentação: código de fio e cor do fio b) Lado do operador: localização para inserir e conectar a cor;check_moto;var36
+Ambas as extremidades dos paco-paco são protegidas para evitar danos nos fios.;check_moto;var37
+Existe uma regra escrita de FIFO e é estritamente seguida.;check_moto;var38
+A caixa de peças possui um número de peça e a localização é indicada na estação de trabalho. A etiqueta do número de peças é exibida na parte superior do local. Se não, use as setas para indicar a posição das peças. Se o local for de estágio único, não importa se a etiqueta do número de peças é superior ou inferior. Se as caixas de peças forem fixas, é aceitável ter indicação apenas nas caixas.;check_moto;var39
+As peças são preenchidas em uma caixa em quantidade adequada e não caem. * Considere bem como colocar caixas de peças para que as peças não caiam.;check_moto;var40
+As peças caídas são colocadas em um recepiente especial instantaneamente e verificadas pelo líder.;check_moto;var41
+Não há indicação como ajuda visual que se solta, está rasgada ou difícil de ler.;check_moto;var42
+A bolsa está instalada e é usada se houver o risco de os fios tocarem o chão. (Mesmo na parte de trás do tubo);check_moto;var43
+Cavidade de cabos, bolsa, holder do conector e a estação de trabalho são verificados uma vez por semana e há uma regra de limpeza documentada com instruções nos pontos de 5W1H. Eles não estão sujos.;check_moto;var44
+Montagem e Inspeção Conveyor;subtitulo;
+Nenhuma frouxidão ou deformação está no suporte do garfo e do conector / grampo (clipe).;check_moto;var45
+Nenhuma borda afiada, rebarba ou parafuso está no garfo, suporte do conector, WASUREMBO ou jig de montagem. (Incluir a borda de papelão de plástico chamado dampla);check_moto;var46
+Os desenhos de montagem, dos painéis não deve ser riscado rasgado, de modo que é dificil de ler ( interpretar);check_moto;var47
+A caixa de peças possui um número de peça e a localização é indicada na estação de trabalho. A etiqueta do número de peças é exibida na parte superior do local. Caso contrário, use as setas para indicar a posição das peças. Se o local for de estágio único, não importe o rótulo do número de peças na parte superior ou inferior. Se as caixas de peças forem fixas, é aceitável ter indicação apenas nas caixas.;check_moto;var48
+As peças são preenchidas em uma caixa em quantidade adequada e não caem. (Caixa tem uma linha de controle) * Considere bem como colocar caixas de peças para que as peças não caiam;check_moto;var49
+As peças caídas são imediatamente colocadas em uma caixa especial e checadas pelo Líder. * No caso dos conjuntos fornecidos (WASARENBOU, etc.), chame o líder imediatamente se não houver recipiente para peças soltas. * Para componentes específicos, como tubo COT, fita, folha VS, que não se preocupam com peças quebradas, manchadas ou peças erradas, os operadores podem usar esses componentes, que os operadores podem julgar por si mesmos, sem permissão de líderes (regra documentada é requeridos).;check_moto;var50
+"Há indicações de posições originais para o gabarito de ferramentas, como wasurenbo, jig de montagem de COT, clip gun; fitas, incluindo fitas em uso e submontagem.";check_moto;var51
+Cada área de trabalho da operação do conveyor é indicada e cada uma delas trabalha na área designada. * O início e a posição final da operação são indicados claramente.;check_moto;var52
+Sistema de alerta de anormalidade é instalado e funciona corretamente. * Anormalidade de alerta é visualizada. É preferível ter alarme para informar anormalidades.;check_moto;var53
+Quando há peças não usadas para todos os números de produtos na linha, as peças têm indicação de qual número de produto elas são usadas.;check_moto;var54
+A calha é instalada na posição de fiação e os fios não tocam o chão.;check_moto;var55
+Painél de montagem, a calha e os suportes do conector são verificados uma vez por dia e existe uma regra de limpeza escrita com instruções nos pontos do 5W1H. Eles não estão sujos.;check_moto;var56
+Há indicações para mostrar números de produtos em um quadro de gabarito;check_moto;var57
+Existe uma regra escrita para limpar o interior do conveyor, e a limpeza é realizada periodicamente.;check_moto;var58
+"As áreas rotativas de um transportador e área móvel (a área onde um conveyor gira diferente de um transportador redondo) são marcadas e têm sinal de ""Área de não-trabalho"". Nenhum operador trabalha nas áreas.";check_moto;var59
+Inspeção Elétrica;subtitulo;
+A fiação do verso do C / F (dispositivo de verificador) é protegida com tubo espiral. Outras fiações e cabos são fixos e não soltos.;check_moto;var60
+Nenhum dano é encontrado em C / F ou suporte de conector;check_moto;var61
+Existe uma regra escrita para limpar C / F, conector de acoplamento, suporte de conector e placa de inspeção com instruções nos pontos de 5W1H. Eles não estão sujos. a) Vácuo: uma vez por dia ou mais  b) Pincéis: Uma vez por mês ou mais;check_moto;var62
+O gabarito de verificação de alinhamento é preparado para o conector correspondente e para o tipo LC C / F e cujo alinhamento é assegurado.;check_moto;var63
+Os layouts de conectores não estão descascando, quebrados ou manchados , o que dificulta a leitura do layout.;check_moto;var64
+Inspeções periódicas são realizadas em locais onde existe a possibilidade de parafusos soltos com verificador de conexão (para J / B, J / C etc), há uma indicação de data de expiração, e é dentro do prazo.;check_moto;var65
+Não há bordas afiadas, rebarbas ou parafusos na posição em que o produto toca a placa de inspeção de continuidade (chanfros, bordas arredondadas).;check_moto;var66
+O Part Number é anexado à caixa de peças e a localização da caixa é indicada na placa de inspeção. A etiqueta do número de peças é exibida na parte superior do local. Caso contrário, use as setas para indicar a posição das peças. Se o local for de estágio único, não importe o rótulo do número de peças na parte superior ou inferior. Se as caixas de peças forem fixas, é aceitável ter indicação apenas nas caixas.;check_moto;var67
+A localização de uma placa de conjunto de fusíveis é indicada claramente. (Incluindo peças elétricas). A etiqueta do número de peças é exibida na parte superior do local. Se não, use as setas para indicar a posição das peças. Se o local for de estágio único, o rótulo do número de peças é superior ou inferior. Se as caixas de peças forem fixas, é aceitável ter indicação apenas nas caixas.;check_moto;var68
+A localização das ferramentas de inspeção (guia de verificação de alinhamento), a folha de verificação de inspeção é indicada claramente.;check_moto;var69
+Nenhuma peça de montagem caiu no espaço entre C / F (dispositivo de verificação) e o suporte do conector.;check_moto;var70
+A tampa à prova de poeira é colocada na placa de inspeção após o turno e após a operação.;check_moto;var71
+Fiação do verso do painél de inspeção ou verificador de YC são protegidos corretamente para não cair no chão ou para alguém não ser pego.;check_moto;var72
+Há um recipiente de armazenamento para o produto defeituoso, sua localização é indicada e a etiqueta é anexada ao produto defeituoso.;check_moto;var73
+A parte caída é imediatamente colocada no recipiente especial e verificada pelo polivalente;check_moto;var74
+Sistema de alerta de anormalidade é instalado e funciona corretamente. *Alerta de anomalidade é visualizada. É preferível ter alarme para informar anormalidades.;check_moto;var75
+"Para quaisquer ferramentas que requerem calibração; como chaves de torque de cabeça flexível, a data é indicada e não expirou.";check_moto;var76
+Clip Calha;subtitulo;
+A localização da fita (incluindo a fita em uso), as ferramentas de gabarito, incluindo revolver de cinta, são indicadas na mesa de acabamento e é uma obrigação a ser seguida.;check_moto;var77
+O Part Number é anexado à caixa de peças e a localização da caixa é indicada na placa de inspeção. O rótulo é exibido na parte superior da prateleira. A etiqueta do número de peças é exibida na parte superior do local. Se não, use as setas para indicar a posição das peças. Se o local for de estágio único, o rótulo do número de peças é superior ou inferior. Se as caixas de peças forem fixas, é aceitável ter indicação apenas nas caixas.;check_moto;var78
+As peças são preenchidas em uma caixa em quantidade adequada e não caem. * Considere bem como colocar caixas de peças para que as peças não caiam.;check_moto;var79
+A placa de gabarito de acabamento é verificada uma vez por dia e há uma regra escrita para limpar com instruções nos pontos de 5W1H. A mesa não está suja.;check_moto;var80
+Nenhuma frouxidão ou deformação está no suporte.;check_moto;var81
+Não há bordas afiadas ou rebarbas na posição em que o produto toca a placa de acabamento.;check_moto;var82
+Peças caidas são colocadas imediatamente na caixa especial e o líder verifica a peça.;check_moto;var83
+O produto não está pendurado no chão. (Se é provável que seja, a calha ou o bujão está instalado);check_moto;var84
+Não há danos, arranhões e descamação que dificultem a leitura das anotações e instruções.;check_moto;var85
+A fiação do lado de trás de receber o suporte de base (conector, grampo ou presilha) é protegida com tubo espiral.;check_moto;var86
+Suporte de Chicote;subtitulo;
+O procedimento de como pendurar os fios ou produtos é definido e os operadores devem seguir o procedimento. (Não dobre a parte da tolerância dimensional especial).;check_moto;var87
+"Há indicações de ""antes da inspeção"" e após a inspeção, e os produtos podem ser separados.";check_moto;var88
+O número máximo de produtos em um suporte é indicado e os operadores devem seguir a regra.;check_moto;var89
+sem peças pesada (J / B, R / B etc) pendurada.;check_moto;var90
+Não há projeção nítida, como rebarbas ou parafusos, na área em que um produto pode se tocar.;check_moto;var91
+O produto não está tocando no chão. O produto não está tocando no chão quando é transportado;check_moto;var92
+O cabide do produto é verificado uma vez por semana e há uma regra escrita para limpá-lo com instruções nos pontos de 5W1H. O cabide está limpo.;check_moto;var93
+Inspeção Visual; ;
+A posição de armazenamento das ferramentas de inspeção (gabarito de verificação de alinhamento), selo de aprovação ou folha de verificação de inspeção é fixada e indicada corretamente.;check_moto;var94
+Materiais de proteção (Ex: esponja) são usadas em J/B (bloco de junção), R/B (bloco de ralé);check_moto;var95
+O produto não está tocando o chão. (Se for provável que isso aconteça, a calha é instalada).;check_moto;var96
+"Ajuda visual não foram descolados, quebrados ou manchados por marca-texto, o que dificulta a leitura.
+";check_moto;var97
+Mesa de inspeção é verificada uma vez por dia e há uma regra de limpeza escrita com instruções nos pontos de 5W1H. A mesa não está suja.;check_moto;var98
+Ferramentas de inspeção não estão quebradas;check_moto;var99
+Luz suficiente (acima de 500 lux) é fornecida na placa de inspeção.;check_moto;var100
+A data de calibração para ferramentas de medição é indicada e não expirou;check_moto;var101
+A etiqueta de amostra é anexada à amostra correta do produto, desenho de amostra ou placa de navegação. O nível de mudança de design corresponde ao produto real. A amostra não está danificada ou quebrada;check_moto;var102
+Sistema de alerta de anormalidade é instalado e funciona corretamente. *Alerta de anomalidade é visualizada. É preferível ter alarme para informar anormalidades.;check_moto;var103
+Existe uma regra escrita para limpar os recipientes. Eles estão limpos.* Remova as etiquetas kanban defeituosas e antigas.;check_moto;var104
+O contêiner não possui rachaduras, deterioração, estrutura de aço ausente, suporte kanban quebrado e descascado. Nenhum pó branco ou ferrugem encontrado ao tocar no recipiente.;check_moto;var105
+"A localização do produto defeituoso é especificada. A etiqueta ""Defeito"" é anexada aos produtos.";check_moto;var106
+Existe uma regra escrita de especificação de embalagem. (Quantidade em um pacote, forma de embalagem) Os inspetores devem seguir a regra. O produto contido não excede o nível da estrutura de aço.;check_moto;var107
+Não há bordas afiadas ou rebarbas na posição em que o produto toca a placa de inspeção visual. (Incluir cabide de produto antes da inspeção);check_moto;var108
+Ao reutilizar o saco do dispositivo (saco de plástico) para peças ou produtos, certifique-se de que não há poeira ou sujeira na embalagem.;check_moto;var109
+Processo Especial Bonder;subtitulo;
+Padrões de Operação e Instruções de Trabalho estão em boas condições, sem desgaste, rasgados ou com impressão fraca.;check_moto;var110
+Existe indicação e local adequado para os itens necessários. (Para itens não colocados no local designado, considerar NG).;check_moto;var111
+Os parâmetros da Bonder estão claros e esses valores são registrados.;check_moto;var112
+As condições das máquinas Bonder são verificadas uma vez por dia antes do início da operação e essas condições são registradas.;check_moto;var113
+Existe regra de limpeza (5W1H) e a verificação do posto de trabalho é feita ao menos uma vez por dia. O local encontra-se limpo.;check_moto;var114
+"Há indicações de ""Antes da operação"" e ""Depois da operação"". 
+(Local dedicado está instalado)";check_moto;var115
+A “almofada” para alinhamento de cabos está instalada e sendo utilizada. (Se o processo utilizar um cabo por vez, considerar NA);check_moto;var116
+Processo de Retrabalho;subtitulo;
+Há uma indicação para operadores de retrabalho ou equipes de retrabalho.;check_moto;var117
+Placa de gabarito de retrabalho é preparada e sem folgas ou deformação está no garfo e conector / suporte de braçadeira (clipe).;check_moto;var118
+As peças removidas são colocadas em local dedicado e a localização tem sua indicação.;check_moto;var119
+Posição de armazenamento de ferramentas de re-trabalho e folha de verificação são indicados.;check_moto;var120
+Placa de gabarito de re-trabalho é verificada uma vez por dia e existe uma regra de limpeza escrita com instruções em os pontos de 5W1H. O tabuleiro não está sujo.;check_moto;var121
+"A localização do produto defeituoso é especificada. A etiqueta ""Defeito"" é anexada aos produtos.";check_moto;var122
+Controle de Henkaten ATO;subtitulo;
+Para 20 itens do processo de montagem de gerenciamento de ponto de mudança, como instruir e assegurar o ponto de mudança em cada processo é esclarecido com 5W1H.(VEJA INFORMAÇÃO EM ANEXO).;check_moto;var123
+A distribuição dos trabalhadores, os pontos de mudança e a localização destes são claramente indicados na placa de Gerenciamento Visual VM.                 ( quadro controle peças  );check_moto;var124
+A ocorrência / conclusão do gerenciamento do ponto de mudança é claramente indicado no quadro da VM.;check_moto;var125
+"O treinamento é fornecido ao operador do ponto de mudança: Ensine o procedimento de operação (3 vezes). Supervisione a operação (3 vezes). Verificar (3) produtos.
+";check_moto;var126
+"As 3 primeiras peças ou lote foi identificada com uma etiqueta/ esqueleto quando o ponto de mudança ocorreu.
+";check_moto;var127
+Os resultados da inspeção dos lotes iniciais são registrados. E o registro de pontos de mudança é armazenado. (O período de manutenção é igual ao registro de inspeção.);check_moto;var128
+"Quando um operador se desloca para uma operação para a qual ele não está licenciado (por exemplo, do AC81 para o bonder): indique a posição da alteração com um sinal e trabalhe sob a supervisão de um instrutor do 2º grau.
+. (Exceto a área de operação, Ex: Mudança do número da linha)";check_moto;var129
+"A operação é interrompida e as medidas são tomadas imediatamente quando há um defeito em um ponto de mudança (Plano de Reação do Plano de Controle).
+";check_moto;var130
+O substituto ou a equipe de ajuda devem ter a licença de operação apropriada.;check_moto;var131
+ Gerente verifica as operações dos pontos de troca da 4M pelo menos duas vezes por dia. (Quando o gerente fornece treinamento, o chefe / supervisor da seção confirma isso.);check_moto;var132
+Um gerente verifica se os gerenciamentos de ponto de mudança estão sendo seguidos conforme as instruções. (Certifique-se de quem é o responsável.);check_moto;var133
+Para garantir a mão de obra necessária, as férias são ajustadas com antecedência e operadores multi-qualificados são desenvolvidos;check_moto;var134

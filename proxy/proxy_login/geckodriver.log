@@ -1,0 +1,35 @@
+1568312046068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg4bkj2"
+1568312046964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568312046964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568312046965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568312046965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568312050063	Marionette	INFO	Listening on port 39347
+1568312050080	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3558): dconf-WARNING **: 15:14:10.198: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1568375665676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYzaRrm"
+Error: no DISPLAY environment variable specified
+1568375678542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZJlTT4"
+Error: no DISPLAY environment variable specified
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568375741349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMEHZ0q"
+Error: no DISPLAY environment variable specified
+1568376061660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledxHbHM"
+Error: no DISPLAY environment variable specified
+1568376137975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIaknkN"
+Error: no DISPLAY environment variable specified
+1568376496287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w3nSHxg5NMom"
+Error: no DISPLAY environment variable specified
+1568376620772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9tONOY4UtfY6"
+1568376621396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568376621396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568376621396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568376621396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568376623703	Marionette	INFO	Listening on port 41293
+1568376623783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568376626047	Marionette	INFO	Stopped listening on port 41293
+[Parent 12112, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12112, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
